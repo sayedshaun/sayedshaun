@@ -1,5 +1,5 @@
 ### 💫 About Me:
-🔭 I'm currently exploring various aspects of Machine Learning to broaden my understanding.<br>🌱 I'm enthusiastic about learning and always open to new challenges and opportunities in the AI domain.<br>👀 I'm interested in leveraging technology to solve real-world problems and make a positive impact.<br>💞️ I'm actively looking to collaborate on interesting projects related to ML, DL, or AI.<br>📫 You can reach me through Gmail or connect with me on LinkedIn - let's chat!
+🔭 I'm currently exploring various aspects of Machine Learning to broaden my understanding.<br>🌱 I'm enthusiastic about learning and always open to new challenges and opportunities in the AI domain.<br>👀 I'm interested in leveraging technology to solve real-world problems and make a positive impact.<br>💞️ I'm actively looking to collaborate on interesting projects related to ML, DL, or AI.<br>📫 You can reach me through Gmail or connect with me on LinkedIn.
 
 
 ### 🌐Socials:
